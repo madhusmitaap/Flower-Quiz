@@ -89,7 +89,7 @@ const quizEnd = () => {
         <h3 class="w-100" style="text-align:center;"> 
             YOU HAVE SCORED ${correct} OUT OF ${total}</h3>
             <div class="im" style="text-align:center;">
-                <img src="../images/highscorefl.jpg alt="image" height="300">
+                <img src="../images/highscorefl.jpg" alt="image" height="300">
             </div>
             <h4 class="w-100" style="text-align:center;"> 
             <a href="../index.html" style="text-decoration:none;">RETURN TO HOMEPAGE</a></h4>
